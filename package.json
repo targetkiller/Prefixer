@@ -1,0 +1,26 @@
+{
+  "name": "prefixer",
+  "version": "1.0.0",
+  "description": "The GUI of autoprefix adder. Use by postcss autoprefixer plugins and electron.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/targetkiller/Prefixer"
+  },
+  "keywords": [
+    "autoprefix",
+    "postcss",
+    "electron"
+  ],
+  "author": "tqtan",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "~3.9.0",
+    "gulp-postcss": "~6.0.1",
+    "autoprefixer": "~6.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/targetkiller/Prefixer/issues"
+  },
+  "homepage": "https://github.com/targetkiller/Prefixer#readme"
+}

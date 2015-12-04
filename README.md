@@ -1,0 +1,1 @@
+The GUI of autoprefix adder. Use by postcss autoprefixer plugins and electron.
