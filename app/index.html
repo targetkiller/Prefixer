@@ -1,0 +1,58 @@
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Prefixer</title>
+	<style type="text/css">
+		body{
+			position: relative;
+			margin: 0;
+		}
+		.dragarea{
+			border: 8px #ddd dashed;
+			border-radius: 6px;
+			width: 250px;
+			height: 250px;
+			position: absolute;
+			left: 50%;
+			top: 80px;
+			margin-left: -125px;
+			line-height: 250px;
+			font-size: 16px;
+			color: #ccc;
+			font-weight: bold;
+			font-family: helvitica Nueue, Microsoft yahei;
+			text-align: center;
+		}
+		.dragarea-on{
+			color: #999;
+			border: 8px #aaa dashed;
+		}
+		h1.title{
+			text-align: center;
+			font-family: helvitica Nueue, Microsoft yahei;
+			color: #000;
+			font-weight: normal;
+			font-size: 18px;
+			line-height: 40px;
+			padding: 0;
+			margin: 0;
+		}
+		p.desc{
+			font-size: 12px;
+			text-align: center;
+			color: #999;
+			padding: 0;
+			margin: 0;
+		}
+	</style>
+</head>
+<body>
+	<h1 class="title">自动补充CSS3前缀</h1>
+	<p class="desc">＊用法：拖拽CSS文件到下面的线框，会自动生成名字'-result'的结果css，支持多个文件。</p>
+	<div class="dragarea j-dragarea">
+    		拖拽文件到这里
+    </div>
+    <script type="text/javascript" src="jquery-1.8.2.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+</body>
+</html>
