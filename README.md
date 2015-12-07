@@ -41,7 +41,7 @@ test-result.css
 ```
 
 ##下载
-MAC版本下载地址：[这里](http://pan.baidu.com/s/1eQNXcaQ)
+MAC版本下载地址：[这里](http://pan.baidu.com/s/1gerboFT)
 
 PC版本下载地址：[这里](http://pan.baidu.com/s/1eRu1e86)
 
